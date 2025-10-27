@@ -1,4 +1,4 @@
-# Grok Scroll Fix for Legacy Chrome/Edge/Brave/Opera
+# Grok Auto-Scroll Fix for Legacy Chrome/Edge
 
 - When **new messages are dynamically added**
 - Works reliably even on **legacy browsers**
